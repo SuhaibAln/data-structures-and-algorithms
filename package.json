@@ -1,0 +1,10 @@
+{
+ "scripts": {
+  "test": "jest --COVERAGE --verbose",
+  "start": "Npm start",
+  "watch": "jest --watchAll"
+ },
+ "dependencies": {
+  "jest": "^28.1.3"
+ }
+}
